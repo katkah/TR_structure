@@ -1,6 +1,6 @@
 # 🧬 Telomerase RNA (TR) Conformation
 
-This repository accompanies the study:
+This repository is based on the study:
 **“Analysis of Telomerase RNA Structure in *Physcomitrium patens* Indicates Functionally Relevant Transitions Between OPEN and CLOSED Conformations”**
 📄 DOI: [10.1016/j.jmb.2023.168417](https://doi.org/10.1016/j.jmb.2023.168417)
 
